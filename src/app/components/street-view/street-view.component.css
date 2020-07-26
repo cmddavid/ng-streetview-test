@@ -1,0 +1,16 @@
+#streetview-map {
+    display: none;
+}
+
+#streetview-pano {
+    width: 100%;
+    height: 100%;
+}
+
+#streetview-container {
+    position: relative;
+}
+
+* {
+    height: 100%;
+}
